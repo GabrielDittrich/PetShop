@@ -1,11 +1,11 @@
 ###
-GET http://localhost:5100/
+GET http://localhost:5119/
 
 ### Requisição GET
-GET http://localhost:5100/animais
+GET http://localhost:5119/animais
 
 ### Requisição POST
-POST http://localhost:5100/animais
+POST http://localhost:5119/animais
 Content-Type: application/json
 
 {
@@ -14,7 +14,7 @@ Content-Type: application/json
 }
 
 ### Requisição PUT
-PUT http://localhost:5100/animais/2
+PUT http://localhost:5119/animais/2
 Content-Type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
     
 
 ### Requisição DELETE
-DELETE  http://localhost:5100/animais/1
+DELETE  http://localhost:5119/animais/1

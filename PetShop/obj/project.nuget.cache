@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "sarw9znBUVMEwYTygFIstEJI/rv1ym3hFFiOf23ySXo6fAZGNlc08z01U9rfiAjkQLp90yLwBQ7kiba2Ojs9QA==",
-  "success": false,
+  "dgSpecHash": "pik28aV2ghud5OX/PyX86njadY6rVKaurZR0PpyqF1ZUX4pI6t2gnVC99y8CgvuUBrPLKblvrVBAj8mbfoR9hg==",
+  "success": true,
   "projectFilePath": "C:\\_gd\\Csharp\\PetShop\\PetShop\\PetShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\autologon\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
@@ -17,9 +17,9 @@
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.5.0\\microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.5.0\\microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
-    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
-    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.4\\microsoft.entityframeworkcore.design.8.0.4.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.4\\microsoft.entityframeworkcore.inmemory.8.0.4.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.4\\microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
@@ -79,33 +79,5 @@
     "C:\\Users\\autologon\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Downgrade de pacote detectado: Microsoft.EntityFrameworkCore de 8.0.4 para 8.0.3. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n PetShop -> Microsoft.EntityFrameworkCore.InMemory 8.0.4 -> Microsoft.EntityFrameworkCore (>= 8.0.4) \r\n PetShop -> Microsoft.EntityFrameworkCore (>= 8.0.3)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Downgrade de pacote detectado: Microsoft.EntityFrameworkCore de 8.0.4 para 8.0.3. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n PetShop -> Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 8.0.4 -> Microsoft.EntityFrameworkCore.Relational 8.0.4 -> Microsoft.EntityFrameworkCore (>= 8.0.4) \r\n PetShop -> Microsoft.EntityFrameworkCore (>= 8.0.3)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Downgrade de pacote detectado: Microsoft.EntityFrameworkCore de 8.0.4 para 8.0.3. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n PetShop -> Microsoft.EntityFrameworkCore.Design 8.0.4 -> Microsoft.EntityFrameworkCore.Relational 8.0.4 -> Microsoft.EntityFrameworkCore (>= 8.0.4) \r\n PetShop -> Microsoft.EntityFrameworkCore (>= 8.0.3)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
