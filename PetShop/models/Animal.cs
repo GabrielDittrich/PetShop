@@ -1,7 +1,7 @@
 public class Animal
 {
-    public int Id { get; set;}
-    public string? nomeAnimal { get; set;}
-    public string? raca { get; set;}
-    
+    public int Id { get; set; }
+    public string? NomeAnimal { get; set; }
+    public string? Raca { get; set; }
+
 }

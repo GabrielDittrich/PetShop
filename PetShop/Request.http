@@ -1,2 +1,27 @@
-### Envio de requisições GET para o servidorGET
-http://localhost:porta/ HTTP/1.1
+###
+GET http://localhost:5100/
+
+### Requisição GET
+GET http://localhost:5100/animais
+
+### Requisição POST
+POST http://localhost:5100/animais
+Content-Type: application/json
+
+{
+    "nome" : "Belinha",
+    "raca" : "Pintcher"
+}
+
+### Requisição PUT
+PUT http://localhost:5100/animais/2
+Content-Type: application/json
+
+{
+    "nome" : "Johnnynho",
+    "raca" : "Pit-bul"
+}
+    
+
+### Requisição DELETE
+DELETE  http://localhost:5100/animais/1
