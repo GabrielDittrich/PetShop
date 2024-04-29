@@ -9,10 +9,7 @@ class BancoDeDados : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder builder)
     {
-        builder.UseMySQL("server=localhost;port=5119;database=petshop;user=root;password=");
+        builder.UseMySQL("server=localhost;port=3306;database=mysql;user=root;password=dfds2023");
     }
-    //Comandos dotnet
-    //dotnet ef migrations add CriarTabelaProduto
-    //dotnet ef database update
 
 }

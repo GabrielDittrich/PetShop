@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_gd\\Csharp\\PetShop\\PetShop\\PetShop.csproj": {}
+    "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj": {}
   },
   "projects": {
-    "C:\\_gd\\Csharp\\PetShop\\PetShop\\PetShop.csproj": {
+    "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_gd\\Csharp\\PetShop\\PetShop\\PetShop.csproj",
+        "projectUniqueName": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj",
         "projectName": "PetShop",
-        "projectPath": "C:\\_gd\\Csharp\\PetShop\\PetShop\\PetShop.csproj",
-        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-        "outputPath": "C:\\_gd\\Csharp\\PetShop\\PetShop\\obj\\",
+        "projectPath": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj",
+        "packagesPath": "C:\\Users\\huder\\.nuget\\packages\\",
+        "outputPath": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\huder\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
