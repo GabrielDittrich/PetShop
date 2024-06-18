@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3shoAy/wutFYVr9/i62DShsj78eNAzhwzP0+YrVyP2CFwTm7tz4zQs5yRl0G+CASmLuJkW5ORsUaprKfYqvjQ==",
+  "dgSpecHash": "jLreqbjx3pCDhfDM/xI8n+Y6B66EvEKNdTkRi0SeJdI0SKQ1590MdU+54CUgMkBfoUEJ6A6z7TRK1qWDfdjHsA==",
   "success": true,
-  "projectFilePath": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj",
+  "projectFilePath": "C:\\_VsCode\\_CSharp\\TrabalhoCSharp\\PetShop\\PetShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huder\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\huder\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

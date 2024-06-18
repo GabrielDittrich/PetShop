@@ -4206,11 +4206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "C:\\_VsCode\\_CSharp\\TrabalhoCSharp\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\PetShop.csproj",
+      "projectPath": "C:\\_VsCode\\_CSharp\\TrabalhoCSharp\\PetShop\\PetShop.csproj",
       "packagesPath": "C:\\Users\\huder\\.nuget\\packages\\",
-      "outputPath": "C:\\_VsCode\\_CSharp\\PetShop\\PetShop\\obj\\",
+      "outputPath": "C:\\_VsCode\\_CSharp\\TrabalhoCSharp\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huder\\AppData\\Roaming\\NuGet\\NuGet.Config"

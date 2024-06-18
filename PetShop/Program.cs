@@ -8,6 +8,7 @@ builder.Services.AddSwaggerGen();
 
 //Configuração banco MySQL
 builder.Services.AddDbContext<BancoDeDados>();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
