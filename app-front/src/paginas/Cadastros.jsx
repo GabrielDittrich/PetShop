@@ -136,7 +136,8 @@ function Cadastros() {
                 <tr>
                     <th>ID</th>
                     <th>Nome</th>
-                    <th>Ações</th>
+                    <th>Telefone</th>
+                    <th>Email</th>
                 </tr>
                 {getLinhas()}
             </table>
