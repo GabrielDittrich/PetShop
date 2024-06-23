@@ -4389,11 +4389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\trabalho-csharp\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "C:\\Users\\huder\\OneDrive\\Área de Trabalho\\trabalho-csharp\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "C:\\trabalho-csharp\\PetShop\\PetShop.csproj",
+      "projectPath": "C:\\Users\\huder\\OneDrive\\Área de Trabalho\\trabalho-csharp\\PetShop\\PetShop.csproj",
       "packagesPath": "C:\\Users\\huder\\.nuget\\packages\\",
-      "outputPath": "C:\\trabalho-csharp\\PetShop\\obj\\",
+      "outputPath": "C:\\Users\\huder\\OneDrive\\Área de Trabalho\\trabalho-csharp\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huder\\AppData\\Roaming\\NuGet\\NuGet.Config"
