@@ -2,7 +2,7 @@
 function Footer() {
     return (
         <footer>
-            <h3>Rodapé</h3>
+            <h3><a href="https://www.instagram.com/animaissemteto/">Adote!</a></h3>
         </footer>
     );
 }

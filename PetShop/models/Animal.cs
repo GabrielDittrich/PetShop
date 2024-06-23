@@ -4,4 +4,5 @@ public class Animal
     public string? NomeAnimal { get; set; }
     public string? Raca { get; set; }
 
+    public string? Porte { get; set; }
 }

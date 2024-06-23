@@ -14,7 +14,7 @@ namespace PetShop.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.4")
+                .HasAnnotation("ProductVersion", "8.0.6")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("Animal", b =>
@@ -24,6 +24,9 @@ namespace PetShop.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("NomeAnimal")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Porte")
                         .HasColumnType("longtext");
 
                     b.Property<string>("Raca")
@@ -64,6 +67,9 @@ namespace PetShop.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("NomeProduto")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Preco")
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
